@@ -1,4 +1,5 @@
-1. Upload the 2.StandardFirmata.ino file to arduino
+1. Upload the 2.StandardFirmata.ino file to arduino.
+    This  2.StandardFirmata.ino  file is collected from Arduino software example.
 2. Run the 1.motor_05.py file
 3. Press initialize Arduino Button
 4. Slide Enable option
