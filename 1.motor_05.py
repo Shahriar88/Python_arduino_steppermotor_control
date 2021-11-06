@@ -110,7 +110,7 @@ def Motor(fun=0):
 #%% tkinter initialize
 root=Tk()
 root.title("Casper-Stepper_Motor_Control")
-root.iconbitmap("icons\\hat.ico")
+root.iconbitmap("icons\\me.ico")
 root.geometry(str(w)+'x'+str(h))
 #%% Input
 row=0
