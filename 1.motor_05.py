@@ -11,6 +11,7 @@ Stepper Motor Driver Connection
 //Enable +  inverted Enable- pin10
 // Learn how to and set the Dip switches of Stepper Motor driver according to the table on the device
 // I supplied 12 Volt DC to the stepper motor driver
+// https://roboticsbackend.com/control-arduino-with-python-and-pyfirmata-from-raspberry-pi/
 
 """
 
